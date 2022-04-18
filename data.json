@@ -1,0 +1,206 @@
+[
+    {
+        "location":"Overworld",
+        "area":[
+            {   
+                "ID": 0,
+                "name":"Underground",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Coal",
+                        "category":"Common",
+                        "size":10,
+                        "sell":200,
+                        "image": "https://i.imgur.com/eV3aPjx.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Raw Copper",
+                        "category":"Common",
+                        "size":10,
+                        "sell":500,
+                        "image": "https://i.imgur.com/ixtCha8.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Raw Iron",
+                        "category":"Uncommon",
+                        "size":10,
+                        "sell":800,
+                        "image": "https://i.imgur.com/sbe22fQ.jpg"
+                    }
+                ]
+            },
+            {   
+                "ID": 1,
+                "name":"Caverns",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Coal",
+                        "category":"Common",
+                        "size":10,
+                        "sell":200,
+                        "image": "https://i.imgur.com/eV3aPjx.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Raw Iron",
+                        "category":"Uncommon",
+                        "size":10,
+                        "sell":800,
+                        "image": "https://i.imgur.com/sbe22fQ.jpg"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Coal Vein",
+                        "category":"Rare",
+                        "size":100,
+                        "sell":2000,
+                        "image": "https://i.imgur.com/UbD99F8.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Iron Vein",
+                        "category":"Epic",
+                        "size":100,
+                        "sell":8000,
+                        "image": "https://i.imgur.com/pCoDSqy.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Copper Vein",
+                        "category":"Epic",
+                        "size":100,
+                        "sell":5000,
+                        "image": "https://i.imgur.com/SH15iIB.png"
+                    }
+                ]
+            },
+            {   
+                "ID": 2,
+                "name":"Deep Cave",
+                "creature":[
+                    {
+                        "ID":0,
+                        "name":"Iron Vein",
+                        "category":"Epic",
+                        "size":100,
+                        "sell":8000,
+                        "image": "https://i.imgur.com/pCoDSqy.png"
+                    },
+                    {
+                        "ID":1,
+                        "name":"Raw Gold",
+                        "category":"Rare",
+                        "size":10,
+                        "sell":1500,
+                        "image": "https://i.imgur.com/NKlOANN.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Gold Vein",
+                        "category":"Legendary",
+                        "size"100,
+                        "sell":15000,
+                        "image": "https://i.imgur.com/4OtK9my.png"
+                    },
+                    {
+                        "ID":3,
+                        "name":"Hoverfish",
+                        "category":"Uncommon",
+                        "size":38,
+                        "sell":420,
+                        "image": "https://i.imgur.com/wQZRj9t.png"
+                    },
+                    {
+                        "ID":4,
+                        "name":"Raw Iron",
+                        "category":"Uncommon",
+                        "size":10,
+                        "sell":800,
+                        "image": "https://i.imgur.com/sbe22fQ.jpg"
+                    },
+                    {
+                        "ID":5,
+                        "name":"Diamond",
+                        "category":"Epic",
+                        "size":10,
+                        "sell":37000,
+                        "image": "https://i.imgur.com/hIpx48d.png"
+                    },
+                    {
+                        "ID":6,
+                        "name":"Diamond Vein",
+                        "category":"Legendary",
+                        "size":100,
+                        "sell":370000,
+                        "image": "https://i.imgur.com/19kBlzT.png"
+                    },
+                    {
+                        "ID":7,
+                        "name":"Redstones",
+                        "category":"Uncommon",
+                        "size":40,
+                        "sell":1000,
+                        "image": "https://i.imgur.com/jRwDisV.png
+"
+                    },
+                    {
+                        "ID":8,
+                        "name":"Lapis Lazuli",
+                        "category":"Rare",
+                        "size":30,
+                        "sell":6200,
+                        "image": "https://i.imgur.com/fx0J0ti.png"
+                    },
+                    {
+                        "ID":9,
+                        "name":"Emerald",
+                        "category":"Legendary",
+                        "size":1,
+                        "sell":70600,
+                        "image": "https://i.imgur.com/rKHrPoq.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "location":"Nether",
+        "area":[
+            {   
+                "ID": 0,
+                "name":"Nether Mines",
+                "rate": 95,
+                "creature":[
+                    {
+                        "ID":1,
+                        "name":"Gold Nugget",
+                        "category":"Rare",
+                        "size":90,
+                        "sell":4000,
+                        "image": "https://i.imgur.com/DOCiEiC.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Ancient Debris",
+                        "category":"Mythical",
+                        "size":10,
+                        "sell":300000,
+                        "image": "https://i.imgur.com/vzE7zVt.png"
+                    },
+                    {
+                        "ID":2,
+                        "name":"Ancient Debris Vein",
+                        "category":"Spectral",
+                        "size":100,
+                        "sell":3000000,
+                        "image": "https://i.imgur.com/9PLOoYj.png"
+                    }
+                ]
+            }
+        ]
+    }
+]
