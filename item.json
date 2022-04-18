@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Cúp gỗ",
+		"price": 500,
+		"durability": 50,
+		"countdown": 10,
+		"image": "https://i.imgur.com/IODc9Jo.png"
+	},
+	{
+		"name": "Cúp đá",
+		"price": 1400,
+		"durability": 90,
+		"countdown": 9,
+		"image": "https://i.imgur.com/XHTNRGF.png"
+	},
+	{
+		"name": "Cúp sắt",
+		"price": 3400,
+		"durability":200,
+		"countdown": 8,
+		"image": "https://i.imgur.com/Rrlr2ZB.png"
+	},
+	{
+		"name": "Cúp vàng",
+		"price": 2200,
+		"durability": 90,
+		"countdown": 2,
+		"image": "https://i.imgur.com/yPedwZX.png"
+	},
+	{
+		"name": "Cúp kim cương",
+		"price": 23500,
+		"durability": 1500,
+		"countdown": 3,
+		"image": "https://i.imgur.com/qA8hott.png"
+	},
+	{
+		"name": "Cúp redstone",
+		"price": 27000,
+		"durability": 1900,
+		"countdown": 3,
+		"image": "https://i.imgur.com/oF8elUp.png"
+	},
+	{
+		"name": "Cúp seven color",
+		"price": 35000,
+		"durability": 2000,
+		"countdown": 2,
+		"image": "https://i.imgur.com/ul6iOvN.png"
+	},
+	{
+		"name": "Cúp gỗ nhưng lỏ",
+		"price": 675000,
+		"durability": 60000,
+		"countdown": 1,
+		"image": "https://i.imgur.com/2Y9DmPE.png"
+	}
+]
