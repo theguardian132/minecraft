@@ -176,7 +176,7 @@
                 "rate": 95,
                 "creature":[
                     {
-                        "ID":1,
+                        "ID":0,
                         "name":"Gold Nugget",
                         "category":"Rare",
                         "size":90,
@@ -184,7 +184,7 @@
                         "image": "https://i.imgur.com/DOCiEiC.png"
                     },
                     {
-                        "ID":2,
+                        "ID":1,
                         "name":"Ancient Debris",
                         "category":"Mythical",
                         "size":10,
